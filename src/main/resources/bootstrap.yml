@@ -1,0 +1,6 @@
+#spring:
+#  cloud:
+#    gcp:
+#      sql:
+#        database-name: "dbname"
+#        instance-connection-name: "my-instance"
